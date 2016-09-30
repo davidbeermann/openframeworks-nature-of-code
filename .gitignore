@@ -1,0 +1,11 @@
+.DS_Store
+
+*/.idea
+*/*.xcodeproj
+*/*.plist
+*/*.xcconfig
+*/Makefile
+*/config.make
+
+# ignore all *.app files inside of bin folders
+*.app
